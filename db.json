@@ -1,0 +1,21 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "cars": 3
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "cars": {
+      "1": "{\"name\":\"name1\",\"id\":1}",
+      "2": "{\"name\":\"Name2\",\"id\":2}"
+    }
+  }
+}
